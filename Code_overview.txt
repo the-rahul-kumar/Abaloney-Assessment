@@ -1,0 +1,8 @@
+The Code submission Overview - 
+
+Please note, the code was submitted in a jupyter notebook.
+Due to time constraints some of the Images were overwritten and not saved individually.
+
+The code is written in very hardcoded format, few usage of functions, however it works. If there is an issue with running the code, it will probably be based on the file path.
+
+The notebooks are split into various segments, the first half is about data preperation. Each analysis of the Hyper parameter is done in it's own cell. Do note, I analyse a large amount of neurons and layers, so refrain from running the code on ED IDE.
